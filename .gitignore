@@ -1,0 +1,35 @@
+.DS_Store
+
+### Fish ###
+fishd.*
+fish_history
+fish_variables
+config.local.fish
+
+### LibreOffice ###
+# LibreOffice locks
+.~lock.*#
+
+### Vim ###
+# Swap
+[._]*.s[a-v][a-z]
+!*.svg  
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+
+# Session
+Session.vim
+Sessionx.vim
+
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
+# Karabiner
+.config/karabiner/automatic_backups
