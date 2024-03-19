@@ -2,10 +2,11 @@
 
 ### Fish ###
 fishd.*
-fish_history
-fish_variables
-config.local.fish
-.config/fish/completions/fisher.fish
+.config/fish/fish_history
+.config/fish/fish_variables
+.config/fish/config.local.fish
+.config/fish/conf.d/_tide_init.fish
+.config/fish/completions
 .config/fish/functions
 ### LibreOffice ###
 # LibreOffice locks
