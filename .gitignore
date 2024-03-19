@@ -5,7 +5,8 @@ fishd.*
 fish_history
 fish_variables
 config.local.fish
-
+.config/fish/completions/fisher.fish
+.config/fish/functions
 ### LibreOffice ###
 # LibreOffice locks
 .~lock.*#
