@@ -8,6 +8,7 @@ fishd.*
 .config/fish/conf.d/_tide_init.fish
 .config/fish/completions
 .config/fish/functions
+.config/fish/fish_plugins
 ### LibreOffice ###
 # LibreOffice locks
 .~lock.*#
