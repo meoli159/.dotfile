@@ -3,7 +3,7 @@ set fish_greeting ""
 set -gx TERM xterm-256color
 
 set -gx PATH ~/bin ~/.local/bin $HOME/.cargo/bin $PATH
-set -gx PATH /home/linuxbrew/.linuxbrew/bin $PATH
+
 
 function ide
     bash ~/.script/ide
